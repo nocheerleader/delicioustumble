@@ -1,10 +1,9 @@
 'use client'
 
 import Image from 'next/image'
-import Link from 'next/link'
-import { SearchIcon, Bookmark } from 'lucide-react'
+import { Bookmark } from 'lucide-react'
 import { useState } from 'react'
-import { CakeSlice, Search, UserPlus, FileSliders } from 'lucide-react'
+import { Search, UserPlus, FileSliders } from 'lucide-react'
 import { useRouter } from 'next/navigation'
 
 export default function LandingPage() {

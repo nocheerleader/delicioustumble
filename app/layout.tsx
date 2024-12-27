@@ -66,7 +66,7 @@ export default function RootLayout({
                 </>
               ) : (
                 <>
-                  <span className="font-semibold mb-2 sm:mb-0">It's Free!</span>
+                  <span className="font-semibold mb-2 sm:mb-0">It&apos;s Free!</span>
                   <Link
                     href="/signup"
                     className="w-full sm:w-auto px-4 py-1.5 font-bold text-white rounded text-center"

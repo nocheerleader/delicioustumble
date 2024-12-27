@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import { CakeSlice } from 'lucide-react'
 
 export default function SignupPage() {
   return (

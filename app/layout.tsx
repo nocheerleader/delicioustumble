@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { CakeSlice, UserIcon, LogOut } from 'lucide-react'
+import { UserIcon, LogOut } from 'lucide-react'
 import './globals.css'
 
 export const metadata = {
